@@ -1,0 +1,8 @@
+{
+  "domain": "dev-uxd7bbcm1fzrt3b2.us.auth0.com",
+  "clientId": "1IZxTFtQsKqGWEnHZeCV6oeHqwgGkKVy",
+  "audience": "https://spademon.azurewebsites.net/",
+  "apiUri": "https://spademon.azurewebsites.net/",
+  "appUri": "https://spademon.azurewebsites.net/",
+  "errorPath": "/error"
+}
